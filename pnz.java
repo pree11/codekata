@@ -15,7 +15,7 @@ class pnz
         }
         else
         {
-            System.out.println(" Zero");
+            System.out.println(" invalid");
         }
     }
 }
