@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class pnz
+class pnz1
 {
     public static void main(String[] args) 
     {
