@@ -9,7 +9,7 @@ class pnz
         {
             System.out.println("Positive");
         }
-        else if(number < 0)
+        else if(number 0)
         {
             System.out.println(" Negative ");
         }
